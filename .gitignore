@@ -1,0 +1,4 @@
+jenkins-data/
+jenkins-docker-certs/
+nginx/logs/
+script.sh
