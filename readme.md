@@ -1,4 +1,4 @@
-# Jenkins 💚 Blue Ocean
+# Jenkins 💚 Blue Ocean ⚡️ Nginx
 Make sure Docker has been installed on your machine. This repo included custom image, do not need to build the image.
 ## How To Run
 ```shell
